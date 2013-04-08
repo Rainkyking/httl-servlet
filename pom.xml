@@ -4,7 +4,7 @@
     <groupId>httl</groupId>
     <artifactId>httl-servlet</artifactId>
     <packaging>war</packaging>
-    <version>1.0.7</version>
+    <version>1.0.9</version>
     <name>HTTL Servlet Demo</name>
     <properties>
 		<wtpversion>1.5</wtpversion>
@@ -13,7 +13,7 @@
         <dependency>
             <groupId>httl</groupId>
             <artifactId>httl</artifactId>
-            <version>1.0.7</version>
+            <version>1.0.9</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
